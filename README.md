@@ -1,2 +1,2 @@
 # rae2026-utee
-Documents for rae2026 utee case
+Documents for RAE 2026 utee case.
